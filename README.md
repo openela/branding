@@ -1,1 +1,1 @@
-# branding
+# OpenELA Official Branding
